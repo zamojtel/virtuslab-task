@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.virtuslab.internship.discount.FifteenPercentDiscountTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-04-04T13:44:03" hostname="MacBook-Pro-Bartlomiej.local" time="0.023">
+  <properties/>
+  <testcase name="shouldApplyBothDiscounts()" classname="com.virtuslab.internship.discount.FifteenPercentDiscountTest" time="0.02"/>
+  <testcase name="shouldApply15PercentDiscountWith3ProductsOfSameCategory()" classname="com.virtuslab.internship.discount.FifteenPercentDiscountTest" time="0.001"/>
+  <testcase name="shouldNotApply15PercentDiscountWithoutAtLeast3ProductsOfSameCategory()" classname="com.virtuslab.internship.discount.FifteenPercentDiscountTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
